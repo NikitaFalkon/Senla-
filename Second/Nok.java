@@ -1,4 +1,4 @@
-package First;
+
 
 public class Nok {
 	private int Nok;

@@ -1,4 +1,4 @@
-package First;
+
 
 public class Nod {
 private int Nod =1;
